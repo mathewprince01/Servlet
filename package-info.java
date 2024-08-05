@@ -1,1 +1,1 @@
-package com.javaservlet;
+package com.Servlet;
